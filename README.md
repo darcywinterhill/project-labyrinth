@@ -5,6 +5,8 @@ Project week 16 of Technigo bootcamp
 The project was to build a text-based labyrinth game using React, Redux and API's.
 Based on the alternatives you're given you choose your next step in the game.
 
+*** NOTE *** the projects is not working as it should atm.
+
 ## The problem
 
 For this project we decided to go retro!
